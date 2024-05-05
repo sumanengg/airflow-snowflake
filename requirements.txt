@@ -1,0 +1,17 @@
+# /*
+#  * File: requirements.txt
+#  * Project: airflow-docker
+#  * File Created: Sunday, 5th May 2024 5:32:37 pm
+#  * Author: Vithushan Sylvester (https://www.linkedin.com/in/msvithushan/)
+#  * -----
+#  * Last Modified: Sunday, 5th May 2024 5:44:38 pm
+#  * Modified By: Vithushan Sylvester (https://www.linkedin.com/in/msvithushan/>)
+#  * -----
+#  * Copyright 2024 - 2024 Vithushan Sylvester
+#  */
+
+apache-airflow-providers-snowflake==2.3.0
+pyarrow==5.0.0
+snowflake-connector-python==2.5.1
+snowflake-sqlalchemy==1.2.5
+SQLAlchemy==1.3.24
