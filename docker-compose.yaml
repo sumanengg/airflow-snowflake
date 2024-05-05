@@ -10,7 +10,6 @@
 #  * Copyright 2024 - 2024 Vithushan Sylvester
 #  */
 
----
 version: "3"
 x-airflow-common: &airflow-common
   build: .

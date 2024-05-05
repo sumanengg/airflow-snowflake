@@ -6,6 +6,10 @@ This project provides an Airflow setup, complete with the necessary plugins to e
 
 The Airflow-Snowflake Integration Project is designed to facilitate the seamless integration of Airflow with Snowflake. This is achieved through the use of specific plugins that enable the connection to the Snowflake source. For more detailed information about the project, please refer to our blog article on Medium.
 
+### Medium Article
+
+The article can be found [here](https://msvithushan.medium.com/simplified-guide-integrating-snowflake-with-airflow-0ae970b265cf).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
