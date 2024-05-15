@@ -1,13 +1,6 @@
 # /*
 #  * File: docker-compose.yaml
 #  * Project: airflow-docker
-#  * File Created: Sunday, 5th May 2024 5:37:27 pm
-#  * Author: Vithushan Sylvester (https://www.linkedin.com/in/msvithushan/)
-#  * -----
-#  * Last Modified: Sunday, 5th May 2024 5:43:02 pm
-#  * Modified By: Vithushan Sylvester (https://www.linkedin.com/in/msvithushan/>)
-#  * -----
-#  * Copyright 2024 - 2024 Vithushan Sylvester
 #  */
 
 version: "3"
